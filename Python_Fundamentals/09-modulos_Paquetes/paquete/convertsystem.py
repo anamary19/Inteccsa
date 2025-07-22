@@ -41,7 +41,7 @@ def quintodec(n):
 
 # $ python convertsystem.py dtb 12
 # > 1100
-if __name__ == "main_":
+if __name__ == "__main__":
     if len(sys.argv) == 3:
         if sys.argv[1] == "dtb":
             print(dectobin(int(sys.argv[2])))
