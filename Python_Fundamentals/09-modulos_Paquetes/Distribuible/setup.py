@@ -1,6 +1,6 @@
 #aquí se configuran algunos datos necesarios para la configuración del paquete distribuible
 
-from setuptools import setup
+from setuptools import setup, find_packages
 
 #configuración básica de un paquete distribuible
 
