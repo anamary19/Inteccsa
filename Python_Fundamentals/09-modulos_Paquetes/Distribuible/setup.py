@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 #configuración básica de un paquete distribuible
 
 setup(
-    name = "paquetetnueve",
+    name = "paquete",
     version = "0.1",
     description= "paquete distribuible de prueba para tema nueve",
     author="jorge",

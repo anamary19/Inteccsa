@@ -1,0 +1,11 @@
+setup.py
+paquete/__init__.py
+paquete/convertsystem.py
+paquete/modulo.py
+paquete.egg-info/PKG-INFO
+paquete.egg-info/SOURCES.txt
+paquete.egg-info/dependency_links.txt
+paquete.egg-info/top_level.txt
+paquete/subpaqueteA/__int__.py
+paquete/subpaqueteA/m1sp1.py
+paquete/subpaqueteA/m2sp1.py
